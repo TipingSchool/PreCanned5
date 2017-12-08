@@ -1,0 +1,25 @@
+.mainContainer {
+    border: 2px solid white;
+    width: 400px;
+    margin: 0 auto;
+    border-radius: 40px;
+    overflow: hidden;
+}
+
+.batteryFill {
+    background-color: lightgreen;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: width 0.5s ease-in;
+}
+
+
+.batteryText {
+    color: #222;
+    position: relative;
+    right: auto;
+    left: auto;
+    font-weight: bold;
+}

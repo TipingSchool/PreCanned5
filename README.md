@@ -1,0 +1,1 @@
+This project is to accomplish understanding of sibling communication in react with react cli
